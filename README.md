@@ -1,7 +1,8 @@
-'# C++beginners
+#C++beginners
 This repository is for C+'+ tutorial beginners
 
 Hi there 👋 Myself Mrinmoy Samanta
+
 🔭 I’m currently working on Python Projects and AI Assistants.
 🌱 I’m currently learning Machine Learning and Cybersecurity.
 👯 I’m looking to collaborate on open-source projects and AI development.
