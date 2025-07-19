@@ -3,7 +3,7 @@
 Welcome to the ultimate **C++ tutorial** for absolute beginners! 🚀  
 This repository contains step-by-step lessons, code examples, and practice problems to help you master C++ from scratch.
 
-===
+---
 
 ## 📚 Topics Covered
 
