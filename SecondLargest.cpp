@@ -5,7 +5,7 @@ int main()
 {
     int arr[6] = {12,35,1,10,34,1};
 
-    // find the largest element-
+    // find the largest element- 
     int INT_MIN;
     int ans = INT_MIN;
 
@@ -26,3 +26,4 @@ int main()
     for (int i = 0; i < 6; i++)
     cout << arr[i] <<" ";
 }
+
