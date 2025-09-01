@@ -3,7 +3,7 @@ using namespace std;
 
 int main () {
 
-// This is while loop -- '
+// This is while loop -- 
     //int index = 0;
     //while (index < 34)
     //{
