@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     
-// datatypes in C++ --
+// datatypes in C++ -
     // int a, b, c;
     // short sa = 9;
     // cout << sa;
